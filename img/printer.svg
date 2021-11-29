@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg548" height="400pt" width="400pt">
+  <g id="g1066">
+    <path id="path762" stroke-linejoin="bevel" d="m53.75 166.25l208.75 52.5c55.83-55.83 107.92-81.67 167.5-111.25l-216.25-52.5c-57.08 24.583-110.42 64.17-160 111.25z" fill-rule="evenodd" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="#e6e6e6"/>
+    <path id="path763" d="m51.25 166.25l-2.5 191.25 208.75 61.25s5-201.25 3.75-201.25-212.5-50-210-51.25z" fill-rule="evenodd" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="#e6e6e6"/>
+    <path id="path764" stroke-linejoin="bevel" d="m260 220c17.5-26.25 156.25-113.75 168.75-111.25l-6.25 192.5-165 120 2.5-201.25z" fill-rule="evenodd" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="#ccc"/>
+    <path id="path766" d="m101.25 153.75c39.17-13.33 97.08-37.92 113.75-55l123.75 35c-33.75 18.75-67.5 35-87.5 63.75-13.75-5-141.25-38.75-150-43.75z" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="none"/>
+    <path id="path767" d="m213.75 98.75l60-77.5 100 25-35 87.5-125-35z" fill-rule="evenodd" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="#fff"/>
+    <path id="path768" d="m56.25 316.25l196.25 61.25-1.25 35-195-58.75c-2.5-1.25 0-32.5 0-37.5z" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="none"/>
+    <path id="path769" d="m56.25 308.75c3.75 1.25 195 62.5 195 60s1.25-36.25 1.25-37.5l-195-58.75-1.25 36.25z" transform="translate(8.75 21.25)" stroke="#000" stroke-width="3.75" fill="none"/>
+    <path id="path789" stroke="#000" stroke-width="1pt" fill="none" d="m66.944 371.5l5.386-10 1.539 11.54v0.77"/>
+    <path id="path790" stroke="#000" stroke-width="1pt" fill="none" d="m69.666 366.35c1.54 0.77 2.901 0.95 2.901 0.95"/>
+    <path id="path791" stroke="#000" stroke-width="1pt" fill="none" d="m79.729 361.97l-3.67 6.45 3.67 0.48-0.059 5.68"/>
+    <path id="path792" stroke="#000" stroke-width="1pt" fill="none" d="m70.139 318.11l-0.887 8.76 3.078 1.07"/>
+    <path id="path793" stroke="#000" stroke-width="1pt" fill="none" d="m74.638 319.94s-0.769 7.7-0.769 8.47 4.617 1.6 4.617 1.6"/>
+    <path id="path794" stroke="#000" stroke-width="1pt" fill="none" d="m74.638 320.72l5.287 1.73"/>
+    <path id="path795" stroke="#000" stroke-width="1pt" fill="none" d="m73.869 324.86l4.951 1.54"/>
+    <path id="path796" stroke="#000" stroke-width="1pt" fill="none" d="m81.228 323.02l4.655 1.09"/>
+    <path id="path797" stroke="#000" stroke-width="1pt" fill="none" d="m83.261 323.81l-0.199 7.56"/>
+    <path id="path567" fill-rule="evenodd" fill-opacity=".25" d="m275.32 425.63c6.33-1.58 143.98-93.35 147.15-107.59 3.16-14.24 7.91-177.22 6.33-177.22s20.57 196.2-153.48 284.81z"/>
+    <path id="path568" fill-rule="evenodd" fill-opacity=".8" fill="#fff" d="m68.038 278.48c3.164-7.91-1.582-68.04 1.582-71.2 3.165-3.17 158.23 33.23 158.23 33.23s-147.15-41.14-159.81 37.97z"/>
+    <path id="path569" fill-rule="evenodd" fill-opacity=".24706" d="m223.1 126.58c1.58 0 117.09 26.9 104.43 31.65s-63.29 39.55-63.29 39.55 98.1-47.46-41.14-71.2z"/>
+  </g>
+  <rdf:RDF xmlns="http://web.resource.org/cc/">
+    <Work rdf:about="">
+      <dc:title>Clipart by Nicu Buculei - antenna</dc:title>
+      <dc:rights>
+        <Agent>
+          <dc:title>Nicu Buculei</dc:title>
+        </Agent>
+      </dc:rights>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+    </Work>
+    <License rdf:about="http://web.resource.org/cc/PublicDomain">
+      <permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+      <permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+      <permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+    </License>
+  </rdf:RDF>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Laser printer</dc:title>
+        <dc:date>2008-02-26T12:21:35</dc:date>
+        <dc:description>A heavy duty laser printer</dc:description>
+        <dc:source>http://openclipart.org/detail/14925/laser-printer-by-nicubunu</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>nicubunu</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>hardware</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>office</rdf:li>
+            <rdf:li>png</rdf:li>
+            <rdf:li>printer</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <meta charset="UTF-8">
+        <title>Memory Game</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="flex-container">
+            <div class="flex-item">
+               <h1 id="game-title"> Memory Game </h1>
+            </div>
+            <div class="flex-item">
+               <h1 id="score"> Current tries is : <span id="result"></span></h1>
+            </div>
+        </div>
+        <div>
+        <section class='memory-game' id='memory-game'>
+            <div class='memory-card' data-framework='aurelia' >
+                <img class="front-face" src="img/aurelia.svg"
+                alt="Aurelia" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />         
+            </div>
+            <div class='memory-card' data-framework='aurelia'>
+                <img class="front-face" src="img/aurelia.svg"
+                alt="Aurelia" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='angular'>
+                <img class="front-face" src="img/angular.svg"
+                alt="Angular" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card'  data-framework='angular'>
+                <img class="front-face" src="img/angular.svg"
+                alt="Angular" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card'  data-framework='backbone'>
+                <img class="front-face" src="img/backbone.svg"
+                alt="Backbone" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='backbone'>
+                <img class="front-face" src="img/backbone.svg"
+                alt="Backbone" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='ember'>
+                <img class="front-face" src="img/ember.svg"
+                alt="Ember" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='ember'>
+                <img class="front-face" src="img/ember.svg"
+                alt="Ember" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='react'>
+                <img class="front-face" src="img/react.svg"
+                alt="React" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='react'>
+                <img class="front-face" src="img/react.svg"
+                alt="React" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework="svg">
+                <img class="front-face" src="img/vue.svg"
+                alt="Vue" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework="svg">
+                <img class="front-face" src="img/vue.svg"
+                alt="Vue" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='penguin' >
+                <img class="front-face" src="img/penguin.svg"
+                alt="Penguin" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+                
+            </div>
+            <div class='memory-card' data-framework='penguin'>
+                <img class="front-face" src="img/penguin.svg"
+                alt="Penguin" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='printer' >
+                <img class="front-face" src="img/printer.svg"
+                alt="Printer" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='printer'>
+                <img class="front-face" src="img/printer.svg"
+                alt="Printer" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='laptop' >
+                <img class="front-face" src="img/laptop.svg"
+                alt="Laptop" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='laptop'>
+                <img class="front-face" src="img/laptop.svg"
+                alt="Laptop" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>  
+            <div class='memory-card' data-framework='mouse'>
+                <img class="front-face" src="img/mouse.svg"
+                alt="Mouse" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+            <div class='memory-card' data-framework='mouse'>
+                <img class="front-face" src="img/mouse.svg"
+                alt="Mouse" />
+                <img class="back-face" src="img/question_mark.jpg"
+                alt="JS Badge" />
+            </div>
+        </section>
+        <div class="vertical-center">
+            <button class='button-6' type="reset" onclick="restart()" >Reset</button>
+        </div>
+        <script src="scripts.js"></script>
+    </body>
+</html>
